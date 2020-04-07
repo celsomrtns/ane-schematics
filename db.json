@@ -1,25 +1,27 @@
-[{
-	"workflowCode": "01",
-	"name": "Nome1",
-	"label": "Nome 1",
-	"version": "1.0",
-	"status": "InDevelopment",
-	"buildStatus": "Invalid",
-	"code": "abc"
-}, {
-	"workflowCode": "02",
-	"name": "Nome2",
-	"label": "Nome 2",
-	"version": "1.2",
-	"status": "InDevelopment",
-	"buildStatus": "Invalid",
-	"code": "def"
-}, {
-	"workflowCode": "03",
-	"name": "Nome3",
-	"label": "Nome 3",
-	"version": "1.3",
-	"status": "InDevelopment",
-	"buildStatus": "Invalid",
-	"code": "ghi"
-}]
+{
+	"posts": [{
+		"workflowCode": "01",
+		"name": "Nome1",
+		"label": "Nome 1",
+		"version": "1.0",
+		"status": "InDevelopment",
+		"buildStatus": "Invalid",
+		"code": "abc"
+	}, {
+		"workflowCode": "02",
+		"name": "Nome2",
+		"label": "Nome 2",
+		"version": "1.2",
+		"status": "InDevelopment",
+		"buildStatus": "Invalid",
+		"code": "def"
+	}, {
+		"workflowCode": "03",
+		"name": "Nome3",
+		"label": "Nome 3",
+		"version": "1.3",
+		"status": "InDevelopment",
+		"buildStatus": "Invalid",
+		"code": "ghi"
+	}]
+}
