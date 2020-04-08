@@ -8,7 +8,7 @@
 		"buildStatus": "Invalid",
 		"code": "abc"
 	}, {
-		"workflowCode": "02",
+		"workflowCode": "01",
 		"name": "Nome2",
 		"label": "Nome 2",
 		"version": "1.2",
@@ -16,10 +16,34 @@
 		"buildStatus": "Invalid",
 		"code": "def"
 	}, {
-		"workflowCode": "03",
+		"workflowCode": "01",
 		"name": "Nome3",
 		"label": "Nome 3",
 		"version": "1.3",
+		"status": "InDevelopment",
+		"buildStatus": "Invalid",
+		"code": "ghi"
+	}, {
+		"workflowCode": "01",
+		"name": "Nome4",
+		"label": "Nome 4",
+		"version": "1.4",
+		"status": "InDevelopment",
+		"buildStatus": "Invalid",
+		"code": "abc"
+	}, {
+		"workflowCode": "01",
+		"name": "Nome5",
+		"label": "Nome 5",
+		"version": "1.5",
+		"status": "InDevelopment",
+		"buildStatus": "Invalid",
+		"code": "def"
+	}, {
+		"workflowCode": "01",
+		"name": "Nome6",
+		"label": "Nome 6",
+		"version": "1.6",
 		"status": "InDevelopment",
 		"buildStatus": "Invalid",
 		"code": "ghi"
