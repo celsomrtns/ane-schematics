@@ -1,5 +1,6 @@
 {
 	"posts": [{
+		"id": 1,
 		"workflowCode": "01",
 		"name": "Nome1",
 		"label": "Nome 1",
@@ -8,6 +9,7 @@
 		"buildStatus": "Invalid",
 		"code": "abc"
 	}, {
+		"id": 2,
 		"workflowCode": "01",
 		"name": "Nome2",
 		"label": "Nome 2",
@@ -16,6 +18,7 @@
 		"buildStatus": "Invalid",
 		"code": "def"
 	}, {
+		"id": 3,
 		"workflowCode": "01",
 		"name": "Nome3",
 		"label": "Nome 3",
@@ -24,6 +27,7 @@
 		"buildStatus": "Invalid",
 		"code": "ghi"
 	}, {
+		"id": 4,
 		"workflowCode": "01",
 		"name": "Nome4",
 		"label": "Nome 4",
@@ -32,6 +36,7 @@
 		"buildStatus": "Invalid",
 		"code": "abc"
 	}, {
+		"id": 5,
 		"workflowCode": "01",
 		"name": "Nome5",
 		"label": "Nome 5",
@@ -40,6 +45,7 @@
 		"buildStatus": "Invalid",
 		"code": "def"
 	}, {
+		"id": 6,
 		"workflowCode": "01",
 		"name": "Nome6",
 		"label": "Nome 6",
